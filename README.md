@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repository
+# My Data Science Specialization Course at Coursera
+
